@@ -49,4 +49,3 @@ typedef struct node{
 	struct node *next;
 }linklist;
 
-//头文件

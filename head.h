@@ -48,3 +48,4 @@ typedef struct node{
 	USER user;
 	struct node *next;
 }linklist;
+
